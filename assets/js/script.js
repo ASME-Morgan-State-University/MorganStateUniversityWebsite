@@ -55,10 +55,10 @@
     //  Count Down JS
     // -----------------------------
     $('.timer').syotimer({
-      year: 2021,
-      month: 12,
-      day: 9,
-      hour: 20,
+      year: 2024,
+      month: 9,
+      day: 25,
+      hour: 19,
       minute: 30
     });
 

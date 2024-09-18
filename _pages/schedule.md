@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: externalPages
 permalink: /schedule/
 ---
 
-{%include schedule.html%}
+{%include schedule.htm%}
