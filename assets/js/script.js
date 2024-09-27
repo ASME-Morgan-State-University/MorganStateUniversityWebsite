@@ -56,8 +56,8 @@
     // -----------------------------
     $('.timer').syotimer({
       year: 2024,
-      month: 9,
-      day: 25,
+      month: 10,
+      day: 2,
       hour: 19,
       minute: 30
     });
